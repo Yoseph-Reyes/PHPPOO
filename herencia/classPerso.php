@@ -23,6 +23,7 @@
                 NOMBRE: {$this->strnombre}<br>
                 EDAD: {$this->intedad}<br>
             ";
+            return $datos;
         }
 
     }
